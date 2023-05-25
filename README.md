@@ -3,8 +3,6 @@ This is a meta-repo that contains nothing in it but a list of other repos. It is
 
 Since I uploaded this after the fact, check the timestamps on the original projects.
 
-GitHub profile: https://github.com/AMDphreak?tab=repositories
-
 Assignments:
 1. Java Assignments - https://github.com/AMDphreak?tab=repositories&q=java-assignment&type=&language=&sort=
 2. Spring Assessment - https://github.com/AMDphreak?tab=repositories&q=spring-assessment&type=&language=&sort=
