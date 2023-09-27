@@ -1,5 +1,5 @@
 # CookSystems FastTrackD-Projects
-This repository contains a compilation of links to the assignments I completed in Cook Systems FastTrack'D Java developer training bootcamp in Memphis, TN. This repository contains no other files than this README. Read the list of links below to get to the individual assignment repositories.
+This repository serves as a consolidated directory of links showcasing my completed assignments during the Cook Systems FastTrack'D Java developer training bootcamp in Memphis, TN. The README is the sole file in this repository, containing a list of links that provide direct access to each individual assignment repository.
 
 As this was uploaded this after the fact, check the timestamps on the original projects.
 
