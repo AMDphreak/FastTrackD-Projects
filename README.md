@@ -1,5 +1,5 @@
 # CookSystems FastTrackD-Assignments List
-This repository serves as a consolidated directory of links showcasing my completed assignments during the Cook Systems FastTrack'D Java developer training bootcamp in Memphis, TN. The README is the sole file in this repository, containing a list of links that provide direct access to each individual assignment repository.
+This repository is a list of assignment links to repositories for Cook Systems assignments. Cook Systems's FastTrack'D training bootcamp was in Memphis, TN. Below are the links to the repositories.
 
 Assignments:
 1. [![Java Assignments](https://img.shields.io/badge/Java%20Assignments-View%20on%20GitHub-blue)](https://github.com/AMDphreak?tab=repositories&q=%22java-assignment%22&type=&language=&sort=)
